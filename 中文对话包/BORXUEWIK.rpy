@@ -3,7 +3,7 @@ init -990 python:
         author="BORXUEWIK",#作者
         name="中文话题整合包",#mod的名字
         description="Monika对于有关中文内容的话题",#mod的简介,在"设置>子模组"就能看到了.
-        version="1.1.0",
+        version="1.2.0",
         settings_pane="submod_cdp",
         version_updates={}
     )
